@@ -1,0 +1,19 @@
+A. Sprawdź słowo
+
+Pobierz listę słów do gier: plik 20211210.zip (obok instrukcji laboratoryjnych)
+
+Napisz skrypt, który korzystając z w/w listy słów:
+- po uruchomieniu wyświetla prompt, np.: >, %, albo $ (lub inny),
+- przyjmuje ciąg znaków (bez spacji) - słowo,
+- jeśli słowo jest ‘exit’ skrypt kończy działanie,
+- sprawdza, czy słowo jest w słowniku:
+- słowa brak - wypisz komunikat i wróć do prompta,
+- słowo jest - idź dalej,
+- Wypisz na ekran:
+	Liczba liter: 
+	Liczba samogłosek: 
+	Liczba spółgłosek: 
+	Liczba słów w słowniku, dla których to słowo jest podciągiem: 
+	Liczba słów w słowniku, które są podciągiem tego słowa:
+	Słowo ze słownika występujące bezpośrednio przed tym słowem: 
+	Słowo ze słownika występujące bezpośrednio po tym słowie:
